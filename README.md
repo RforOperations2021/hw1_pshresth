@@ -1,2 +1,4 @@
-# hw1_pshresth
-Homework #1 by Prasun Shrestha
+# Homework #1 by Prasun Shrestha
+
+Something cool is on its way! :)
+
