@@ -7,6 +7,6 @@ Here is what's good in the app:
 2. Industry performance
 3. Stocks growth/decline
 
-See it for yourself:
+See it for yourself: \
 https://prasunshrestha.shinyapps.io/Stocks_Performance_RShiny_App/
 
