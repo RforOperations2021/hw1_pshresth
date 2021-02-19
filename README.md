@@ -1,4 +1,6 @@
 # Homework #1 by Prasun Shrestha
 
-Something cool is on its way! :)
+Author: Prasun Shrestha
+https://prasunshrestha.shinyapps.io/Stocks_Performance_RShiny_App/
+
 
